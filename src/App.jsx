@@ -28,7 +28,7 @@ function App() {
 
   return (
     <div style={{ fontFamily: "Arial", padding: "20px" }}>
-      <h1>Kids YouTube Trending</h1>
+      <h1>YouTube Kids Hotlist</h1>
       <div style={{ marginBottom: "10px" }}>
         <button onClick={() => setActiveTab("trending")}>Trending</button>
         <button onClick={() => setActiveTab("viral")} style={{ marginLeft: "10px" }}>Viral</button>
